@@ -48,7 +48,7 @@ Update the submodules
 ```bash
 git submodules update
 ```
- Each submodule has its own README.md. Follow the installation to have the project running.
+ Each submodule has its own README.md. Follow the installation to have the project running successfully.
 
 ## Usage
 
