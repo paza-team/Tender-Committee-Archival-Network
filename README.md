@@ -10,10 +10,27 @@ This is a Blockchain network built using hyperledger fabric to offer a digital a
 
 ## Installation
 
+Copy the repository
 
 ```bash
-
+git clone https://github.com/paza-team/Tender-Committee-Archival-Network.git
 ```
+Move to the working directory
+
+```bash
+cd Tender-Committee-Archival-Network/
+```
+There are submodules in this repository.
+
+```bash
+git submodule init
+```
+Update the submodules
+
+```bash
+git submodules update
+```
+ Each submodule has its own README.md. Follow the installation to have the project running.
 
 ## Usage
 
