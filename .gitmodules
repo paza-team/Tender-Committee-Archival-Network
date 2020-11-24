@@ -1,15 +1,19 @@
 [submodule "archive-network"]
 	path = archive-network
 	url = https://github.com/paza-team/archive-network.git
+	branch = master
 
 [submodule "evaluation-meeting-chaincode"]
 	path = evaluation-meeting-chaincode
 	url = https://github.com/paza-team/evaluation-meeting-chaincode.git
+	branch = master
 
 [submodule "fabricSDKREST"]
 	path = fabricSDKREST
 	url = https://github.com/paza-team/fabricSDKREST.git
+	branch = master
 
 [submodule "PAZA"]
 	path = PAZA
 	url = https://github.com/paza-team/PAZA.git
+	branch = main
