@@ -26,6 +26,12 @@ Anonymous reporting for members of the committee who may have been approached to
 
 ### Demo
 
+## Team Members
+1. Martin Mutua
+2. Afandi Indiatsi
+3. Alfaxad Eyembe
+4. Evans Kimathi
+
 ## Installation
 
 Copy the repository
@@ -38,16 +44,7 @@ Move to the working directory
 ```bash
 cd Tender-Committee-Archival-Network/
 ```
-There are submodules in this repository.
 
-```bash
-git submodule init
-```
-Update the submodules
-
-```bash
-git submodules update
-```
  Each submodule has its own README.md. Follow the installation to have the project running successfully.
 
 ## Usage
