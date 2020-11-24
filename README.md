@@ -2,6 +2,12 @@
 
 This is a Blockchain network built using hyperledger fabric to offer a digital archival network for committee meeting proceedings
 
+## Slides
+
+## Video
+
+## Demo
+
 ## Installation
 
 
