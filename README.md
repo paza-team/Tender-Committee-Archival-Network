@@ -31,7 +31,7 @@ Anonymous reporting for members of the committee who may have been approached to
 Copy the repository
 
 ```bash
-git clone https://github.com/paza-team/Tender-Committee-Archival-Network.git
+git clone --recursive https://github.com/paza-team/Tender-Committee-Archival-Network.git
 ```
 Move to the working directory
 
