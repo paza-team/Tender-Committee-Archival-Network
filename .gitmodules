@@ -17,3 +17,8 @@
 	path = PAZA
 	url = https://github.com/paza-team/PAZA.git
 	branch = main
+
+[submodule "fabric-samples"]
+	path = fabric-samples
+	url = https://github.com/hyperledger/fabric
+
