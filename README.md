@@ -1,6 +1,6 @@
 # Tender-Committee-Archival-Network
 
-This is a Blockchain network built using hyperledger fabric to offer a digital archival network for committee meeting minutes.
+This is a Blockchain network built using Hyperledger Fabric to offer a digital archival network of the committee meeting.
 
 ## Problem
 
