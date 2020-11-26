@@ -12,9 +12,7 @@ These minutes are vital in the criminal justice process because it is by adducin
 
 ## Solution
 
-Digitize tender-committee meeting minutes to bring more transparency by improving record keeping with the use of Hyperledger Fabric build a distributed ledger of the storing the state of the committiee meeting and will be shared between different goverment agencies and/or other third-parties, participating in the tendering process.
-
-The minutes, video and/or audio, its transcription and other relevant documents are stored in the block in the form of url links to the remote file storage.
+Digitize tender-committee meeting minutes to bring more transparency to the committee process, evaluation and report. Hyperledger Fabric is distributed ledger that can be used to get past agencies silos and therefore, the state of the committee’s evaluations and report can be shared between different government agencies and/or other third-parties, participating actively or passively in the tendering process.
 
 Anonymous reporting for members of the committee who may have been approached to by pass the legal procurement process in favour of a specific tenderer.
 
