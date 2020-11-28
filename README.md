@@ -20,6 +20,8 @@ Anonymous reporting for members of the committee who may have been approached to
 
 ### Slides
 
+[slides](https://docs.google.com/presentation/d/1WSVsnIbV0dbkUQPIJaeOvEKu7eySNlrvfPb8vLqiLoA/edit?usp=sharing)
+
 ### Video
 
 ### Demo
